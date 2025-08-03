@@ -1,0 +1,6 @@
+{
+  "name": "RecordVault",
+  "description": "A secure, private, and encrypted digital vault for individuals to consolidate their essential records. All data is stored locally and encrypted in your browser.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
